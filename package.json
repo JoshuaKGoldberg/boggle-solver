@@ -1,0 +1,13 @@
+{
+  "name": "boggle-solver",
+  "version": "1.0.0",
+  "description": "Quick little boggle solver in Node.",
+  "main": "index.js",
+  "keywords": ["boggle", "solver"],
+  "author": "Josh Goldberg <me@joshuakgoldberg.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mz": "^2.7.0",
+    "readline-sync": "^1.4.10"
+  }
+}
